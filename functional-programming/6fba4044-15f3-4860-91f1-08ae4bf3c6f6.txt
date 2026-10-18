@@ -1,0 +1,2 @@
+1 - declarative
+2 - imperative
